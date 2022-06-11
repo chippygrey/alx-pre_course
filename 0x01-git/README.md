@@ -1,1 +1,1 @@
-my second commit
+my second commit ready to be updated from terminal
